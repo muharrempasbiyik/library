@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "year_published": 1960,
+      "publisher": "J. B. Lippincott & Co.",
+      "language": "English",
+      "total_copies_sold": 45000000,
+      "img": "To_Kill_a_Mockingbird.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "year_published": 1951,
+      "publisher": "Little, Brown and Company",
+      "language": "English",
+      "total_copies_sold": 65000000,
+      "img": "The_Catcher_in_the_Rye.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "year_published": 1997,
+      "publisher": "Bloomsbury",
+      "language": "English",
+      "total_copies_sold": 120000000,
+      "img": "Harry_Potter_and_the_Philosopher's_Stone_Book_Cover.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year_published": 1937,
+      "publisher": "George Allen & Unwin",
+      "language": "English",
+      "total_copies_sold": 100000000,
+      "img": "TheHobbit_FirstEdition.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "year_published": 1925,
+      "publisher": "Charles Scribner's Sons",
+      "language": "English",
+      "total_copies_sold": 30000000,
+      "img": "The_Great_Gatsby_Cover_1925_Retouched.jpg"
+    },
+    
+    {
+      "id": 6,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year_published": 1954,
+      "publisher": "Allen & Unwin",
+      "language": "English",
+      "total_copies_sold": 150000000,
+      "img": "First_Single_Volume_Edition_of_The_Lord_of_the_Rings.jpg"
+    },
+    {
+      "id": 7,
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "genre": "Thriller",
+      "year_published": 2003,
+      "publisher": "Doubleday",
+      "language": "English",
+      "total_copies_sold": 80000000,
+      "img": "DaVinciCode.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "genre": "Self-help",
+      "year_published": 1937,
+      "publisher": "The Ralston Society",
+      "language": "English",
+      "total_copies_sold": 70000000,
+      "img": "Think_and_grow_rich_original_cover.jpg"
+    },
+    {
+      "id": 9,
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "genre": "Fantasy",
+      "year_published": 1950,
+      "publisher": "Geoffrey Bles",
+      "language": "English",
+      "total_copies_sold": 120000000,
+      "img": "The_Chronicles_of_Narnia_box_set_cover.jpg"
+    },
+    {
+      "id": 10,
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "genre": "Science Fiction",
+      "year_published": 2008,
+      "publisher": "Scholastic Corporation",
+      "language": "English",
+      "total_copies_sold": 65000000,
+      "img": "The_Hunger_Games_cover.jpg"
+    },
+    {
+      "id": 11,
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "genre": "Thriller",
+      "year_published": 2005,
+      "publisher": "Norstedts Förlag",
+      "language": "English",
+      "total_copies_sold": 80000000,
+      "img": "Thegirlwiththedragontattoo.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "genre": "Science Fiction",
+      "year_released": 2010,
+      "language": "English",
+      "box_office": "$829.9 million",
+      "img": "Inception.jpg"
+    }
+
+  ]
