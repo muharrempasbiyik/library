@@ -11,9 +11,9 @@ const ProductCard = (props) => {
 
   return (
      
-    <Card className='text-center'>
-    <Card.Body>
-    <Card.Img variant="top" src={`img/${img}`} />
+    <Card className='text-center'  >
+    <Card.Body >
+    <Card.Img variant="top" src={`img/${img}` } width={"300px"} height={"300px"} />
       <Card.Title className='mt-4'>{title}</Card.Title>
       <Card.Text>
      {author}
