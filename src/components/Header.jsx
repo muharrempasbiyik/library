@@ -4,9 +4,9 @@ import { Button, Container, Form, Nav, Navbar } from 'react-bootstrap'
 const Header = () => {
   return (
     <div>
-      <Navbar expand="lg" className="bg-info">
+      <Navbar expand="lg" className="bg-secondary">
       <Container >
-        <Navbar.Brand href="#">Library</Navbar.Brand>
+        <Navbar.Brand href="#"><img src="https://icons.iconarchive.com/icons/itzikgur/my-seven/72/Books-2-icon.png" alt="" />Library</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav

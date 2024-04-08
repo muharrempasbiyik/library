@@ -1,0 +1,28 @@
+.text-center {
+    height: 100% !important;
+
+
+    .card-body {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+        .card-title {
+            width: 322px;
+            display: flex;
+            justify-content: center;
+            white-space: normal;
+            overflow-wrap: break-word;
+        }
+
+        .image {
+            position: relative;
+            
+            .img {
+             object-fit: fill;
+             transition: 0.2s linear;
+        }
+    }
+}}
+
